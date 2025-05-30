@@ -1,0 +1,73 @@
+h1 { text-align: center; color: rgb(51, 46, 6);  }
+/* para ter uma melhor leitura  interpretação*/p { font-size: 20px; color: darkgreen;}
+h2{ color: darkgreen;}
+
+
+
+h3{ color: darkgreen;}
+
+.img1 {
+    width:220px ;
+    height: 220px;
+    border: 6px solid darkgreen; 
+    border-radius: 70%;
+}
+.img2 { 
+     width:220px ;
+    height: 220px;
+    border: 6px solid darkgreen; 
+    border-radius: 70%;
+}
+
+.img3{
+     width:220px ;
+    height: 220px;
+    border: 6px solid darkgreen; 
+    border-radius: 70%;
+}
+
+.butao:hover{
+    background-color: darkgreen;
+}
+    
+
+
+.tabela{
+    border-radius: 5%;
+    border: 5px solid darkgreen;
+}
+
+
+
+
+.disney{
+border-radius: 20%;
+}
+.imm1{
+    color: rgb(1, 65, 1);
+    border-radius: 20%; 
+}
+.imm2{
+    border-radius: 20%;
+    color: rgb(2, 71, 2)
+    
+}
+
+.imm3{
+    border-radius: 20%;
+    color: rgb(2, 63, 2)
+    
+}
+
+.orlando{
+    border-radius: 20%; 
+}
+.italia{
+    border-radius: 20%; 
+}
+
+
+
+body{ background-color: rgba(106, 151, 23, 0.589)
+}
+
